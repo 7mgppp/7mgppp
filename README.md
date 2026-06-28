@@ -1,46 +1,40 @@
-````markdown
-<div align="center">
+````bash
+╭─ ~/miilee
+╰─$ fetch
 
-# miilee.sh
+Name        :: Miilee Sharma
+Education   :: B.Tech CSE (Data Science)
+Focus       :: AI • Backend • Systems
+Currently   :: Building projects & preparing for placements
 
+╭─ ~/skills
+╰─$ ls
+
+C++  Python  SQL
+PyTorch  TensorFlow
+ASP.NET Core
+Git  Linux
+
+╭─ ~/projects
+╰─$ ls
+
+nes-emulator/
+guesthouse-system/
+orca-gan/
+music-transformer/
+flag-classifier/
+
+╭─ ~/future
+╰─$ cat goals.txt
+
+→ Software Engineering Internship
+→ Machine Learning Internship
+→ Build software that matters
+
+╭─ ~/status
+╰─$ git status
+
+On branch main
+Your future is up to date.
 ```
-✿ building cool things
-✿ drinking iced coffee
-✿ surviving segmentation faults
-✿ pretending every bug is intentional
-```
-
-computer science • machine learning • software engineering
-
----
-
-*"code, cry, commit, repeat."*
-
-</div>
-
-## current obsession
-
-```
-C++           ██████████
-AI            ██████████
-Backend       █████████░
-```
-
-## projects
-
-```
-❀ nes emulator
-❀ guest house management system
-❀ orca gan
-❀ music transformer
-❀ flag classifier
-```
-
----
-
-<div align="center">
-
-learning something new every day.
-
-</div>
 ````
