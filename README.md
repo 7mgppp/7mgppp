@@ -38,9 +38,10 @@
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m3.png" width="75px"/><br><br>
 <b>about me</b><br><br>
-miilee sharma / she/her<br>
-cs + data science @ muj<br>
-jaipur, india
+name &nbsp; miilee sharma<br>
+pronouns &nbsp; she/her<br>
+edu &nbsp; b.tech cse<br>(data science)<br>
+school &nbsp; MUJ, jaipur
 </td>
 
 <td width="10"></td>
@@ -48,10 +49,12 @@ jaipur, india
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m4.png" width="75px"/><br><br>
 <b>interests</b><br><br>
-ai/ml stuff<br>
-low-level systems<br>
-competitive programming<br>
-making computers do cool things
+artificial intelligence<br>
+machine learning<br>
+backend engineering<br>
+operating systems<br>
+computer networks<br>
+competitive programming
 </td>
 
 <td width="10"></td>
@@ -59,10 +62,10 @@ making computers do cool things
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m5.png" width="75px"/><br><br>
 <b>currently building</b><br><br>
-nes emulator (yes really)<br>
-orca call synthesizer<br>
-music generation with transformers<br>
-guest house mgmt system
+nes emulator<br>
+guest house mgmt system<br>
+orca call synthesis<br>
+music generation
 </td>
 
 </tr>
@@ -76,7 +79,17 @@ guest house mgmt system
 <b>currently learning</b><br><br>
 distributed systems<br>
 system design<br>
-getting better at c++
+advanced c++
+</td>
+
+<td width="10"></td>
+
+<td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
+<img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m7.png" width="75px"/><br><br>
+<b>looking for</b><br><br>
+software engineering internships<br>
+machine learning internships<br>
+open source collaborations
 </td>
 
 <td width="10"></td>
@@ -84,14 +97,9 @@ getting better at c++
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m8.png" width="75px"/><br><br>
 <b>fun facts</b><br><br>
-fuelled by coffee<br>
-probably debugging rn<br>
-night owl always
-</td>
-
-<td width="10"></td>
-
-<td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5; opacity:0; pointer-events:none;">
+coffee lover ☕<br>
+night owl 🌙<br>
+always debugging something
 </td>
 
 </tr>
