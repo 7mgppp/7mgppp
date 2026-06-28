@@ -1,16 +1,46 @@
-## Hi there 👋
+````markdown
+<div align="center">
 
-<!--
-**7mgppp/7mgppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# miilee.sh
 
-Here are some ideas to get you started:
+```
+✿ building cool things
+✿ drinking iced coffee
+✿ surviving segmentation faults
+✿ pretending every bug is intentional
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+computer science • machine learning • software engineering
+
+---
+
+*"code, cry, commit, repeat."*
+
+</div>
+
+## current obsession
+
+```
+C++           ██████████
+AI            ██████████
+Backend       █████████░
+```
+
+## projects
+
+```
+❀ nes emulator
+❀ guest house management system
+❀ orca gan
+❀ music transformer
+❀ flag classifier
+```
+
+---
+
+<div align="center">
+
+learning something new every day.
+
+</div>
+````
