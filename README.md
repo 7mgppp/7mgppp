@@ -130,25 +130,16 @@ Get me a iBook G3
 <br>
 
 **✿ github stats ✿**
-
 <br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=7mgppp&show_icons=true&bg_color=fff0f5&title_color=d63384&text_color=9c4068&icon_color=ff85a1&border_color=ffb7c5&border_radius=15" height="155"/>
 &nbsp;
-username=7mgppp&layout=compact&bg_color=fff0f5&title_color=d63384&text_color=9c4068&border_color=ffb7c5&border_radius=15&langs_count=6" height="155"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7mgppp&layout=compact&bg_color=fff0f5&title_color=d63384&text_color=9c4068&border_color=ffb7c5&border_radius=15&langs_count=6" height="155"/>
 <br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=7mgppp&background=fff0f5&border=ffb7c5&ring=d63384&fire=ff5c8a&currStreakNum=9c4068&sideNums=9c4068&currStreakLabel=d63384&sideLabels=d63384&dates=c9849a&border_radius=15" height="155"/>
-
 </div>
-
 <br>
-
 <div align="center"><img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/banner_divider.svg" width="100%"/></div>
-
 <div align="center"><br><b>✿ featured projects ✿</b><br><br></div>
-
 <table align="center" border="0" cellpadding="0" cellspacing="10">
 <tr>
 <td align="center" valign="top" width="300" style="border:2px solid #ffb7c5; border-radius:16px; padding:22px; background:#fff0f5; font-size:15px;">
@@ -186,23 +177,14 @@ booking system for a real guest house, actually in use — React + C# .NET + Pos
 </td>
 </tr>
 </table>
-
 <br>
-
 <div align="center"><img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/banner_divider.svg" width="100%"/></div>
-
 <div align="center">
-
 <br>
-
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_~1342-ffb7c5?style=flat-square&logo=codeforces&logoColor=d63384)](https://codeforces.com/profile/7mGPPP)
 [![LeetCode](https://img.shields.io/badge/LeetCode-7mgppp1729-ffd6e0?style=flat-square&logo=leetcode&logoColor=d63384)](https://leetcode.com/u/7mgppp1729)
 [![NPTEL](https://img.shields.io/badge/NPTEL_Elite-IIT_Kharagpur-ffb7c5?style=flat-square&logoColor=d63384)](https://nptel.ac.in)
-
 <br><br>
-
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m6.png" width="90px"/>
-
 <br><br>
-
 </div>
