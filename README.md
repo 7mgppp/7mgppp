@@ -33,7 +33,7 @@
 
 <td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m3.png" width="75px"/><br><br>
-<b style="font-size:17px;">about me</b><br><br>
+<b style="font-size:17px;">About Me</b><br><br>
 Name: Miilee Sharma<br><br>
 Pronouns: she/her<br><br>
 Edu: B.Tech CSE (Data Science)<br><br>
@@ -44,11 +44,9 @@ School: MUJ, jaipur
 
 <td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m4.png" width="75px"/><br><br>
-<b style="font-size:17px;">interests</b><br><br>
-ml/ai (the annoying parts)<br><br>
+<b style="font-size:17px;">Interests</b><br><br>
+Deep Learning (the annoying parts)<br><br>
 backend stuff<br><br>
-OS internals<br><br>
-Computer Networks<br><br>
 Competitive Programming
 </td>
 
@@ -56,7 +54,7 @@ Competitive Programming
 
 <td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m5.png" width="75px"/><br><br>
-<b style="font-size:17px;">currently building</b><br><br>
+<b style="font-size:17px;">Currently Building</b><br><br>
 A NES Emulator<br><br>
 A GAN that fakes Orca calls<br><br>
 A transformer that writes classical music 
@@ -79,19 +77,19 @@ System Design<br><br>
 
 <td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m7.png" width="75px"/><br><br>
-<b style="font-size:17px;">looking for</b><br><br>
+<b style="font-size:17px;">Looking For</b><br><br>
 SDE / ML Internships<br><br>
-people to build weird side projects with
+People to build weird side projects with
 </td>
 
 <td width="14"></td>
 
 <td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m8.png" width="75px"/><br><br>
-<b style="font-size:17px;">fun facts</b><br><br>
-coffee lover ☕<br><br>
-night owl 🌙<br><br>
-always debugging something
+<b style="font-size:17px;">Fun Facts</b><br><br>
+Love cute little Cyber Decks<br><br>
+Inspired by Cute Studies<br><br>
+Get me a iBook G3
 </td>
 
 </tr>
