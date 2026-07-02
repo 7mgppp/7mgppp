@@ -1,3 +1,17 @@
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m1.png" width="130px"/></td>
+<td><img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/banner.svg" width="580px"/></td>
+<td><img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m2.png" width="130px"/></td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 `computer science student` &nbsp;·&nbsp; `ai/ml` &nbsp;·&nbsp; `backend engineer`
 
 *still figuring out what I want to build, but having fun doing it* &nbsp;✿
@@ -14,84 +28,72 @@
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="8">
+<table align="center" border="0" cellpadding="0" cellspacing="10">
 <tr>
 
-<td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
+<td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m3.png" width="75px"/><br><br>
-<b>about me</b><br><br>
-
-- name: miilee sharma
-- pronouns: she/her
-- edu: b.tech cse (data science)
-- school: MUJ, jaipur
-
+<b style="font-size:17px;">about me</b><br><br>
+name: miilee sharma<br><br>
+pronouns: she/her<br><br>
+edu: b.tech cse (data science)<br><br>
+school: MUJ, jaipur
 </td>
 
-<td width="10"></td>
+<td width="14"></td>
 
-<td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
+<td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m4.png" width="75px"/><br><br>
-<b>interests</b><br><br>
-
-- ml/ai (mostly the annoying parts)
-- backend stuff
-- low-key into OS internals
-- poking at networks
-- cp when i'm procrastinating
-
+<b style="font-size:17px;">interests</b><br><br>
+ml/ai (the annoying parts)<br><br>
+backend stuff<br><br>
+OS internals<br><br>
+computer networks<br><br>
+competitive programming
 </td>
 
-<td width="10"></td>
+<td width="14"></td>
 
-<td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
+<td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m5.png" width="75px"/><br><br>
-<b>currently building</b><br><br>
-
-- an nes emulator (in way over my head)
-- guest house booking system for a client
-- teaching a GAN to sound like an orca
-- a transformer that writes music
-
+<b style="font-size:17px;">currently building</b><br><br>
+an nes emulator<br><br>
+guest house booking system<br><br>
+a GAN that fakes orca calls<br><br>
+a transformer that writes music
 </td>
 
 </tr>
 
-<tr><td colspan="5" height="10"></td></tr>
+<tr><td colspan="5" height="16"></td></tr>
 
 <tr>
 
-<td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
+<td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m6.png" width="75px"/><br><br>
-<b>currently learning</b><br><br>
-
-- distributed systems (slowly)
-- system design
-- c++ i actually understand
-
+<b style="font-size:17px;">currently learning</b><br><br>
+distributed systems<br><br>
+system design<br><br>
+c++ (properly, this time)
 </td>
 
-<td width="10"></td>
+<td width="14"></td>
 
-<td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
+<td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m7.png" width="75px"/><br><br>
-<b>looking for</b><br><br>
-
-- sde / ml internships
-- people to build weird side projects with
-
+<b style="font-size:17px;">looking for</b><br><br>
+sde / ml internships<br><br>
+people to build weird side projects with
 </td>
 
-<td width="10"></td>
+<td width="14"></td>
 
-<td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
+<td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m8.png" width="75px"/><br><br>
-<b>fun facts</b><br><br>
-
-- coffee lover ☕
-- night owl 🌙
-- always debugging something
-
+<b style="font-size:17px;">fun facts</b><br><br>
+coffee lover ☕<br><br>
+night owl 🌙<br><br>
+always debugging something
 </td>
 
 </tr>
@@ -151,51 +153,39 @@
 
 <div align="center"><br><b>✿ featured projects ✿</b><br><br></div>
 
-<table align="center" border="0" cellpadding="0" cellspacing="8">
+<table align="center" border="0" cellpadding="0" cellspacing="10">
 <tr>
-<td align="center" valign="top" width="280" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5;">
+<td align="center" valign="top" width="300" style="border:2px solid #ffb7c5; border-radius:16px; padding:22px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m2.png" width="65px"/><br>
-<b>OrcaCallGAN</b><br>
+<b style="font-size:18px;">OrcaCallGAN</b><br>
 <i>bioacoustic audio synthesis</i><br><br>
-
-- taught a GAN to fake orca calls from spectrograms
-- results are honestly a little unsettling
-
+taught a GAN to fake orca calls from spectrograms — results are honestly a little unsettling<br><br>
 <code>PyTorch</code> <code>GANs</code> <code>Audio ML</code>
 </td>
-<td width="12"></td>
-<td align="center" valign="top" width="280" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5;">
+<td width="16"></td>
+<td align="center" valign="top" width="300" style="border:2px solid #ffb7c5; border-radius:16px; padding:22px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m1.png" width="65px"/><br>
-<b>RoPE-MT</b><br>
+<b style="font-size:18px;">RoPE-MT</b><br>
 <i>music generation transformer</i><br><br>
-
-- autoregressive transformer w/ RoPE
-- writes symbolic music, still learning taste
-
+autoregressive transformer with RoPE that writes symbolic music — still learning taste<br><br>
 <code>Transformers</code> <code>RoPE</code> <code>PyTorch</code>
 </td>
 </tr>
-<tr><td colspan="3" height="12"></td></tr>
+<tr><td colspan="3" height="16"></td></tr>
 <tr>
-<td align="center" valign="top" width="280" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5;">
+<td align="center" valign="top" width="300" style="border:2px solid #ffb7c5; border-radius:16px; padding:22px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m4.png" width="65px"/><br>
-<b>HawaGuide</b><br>
+<b style="font-size:18px;">HawaGuide</b><br>
 <i>7th nationally @ Delhi DA Hackathon</i><br><br>
-
-- air quality-aware route planning for commuters
-- built this in one very sleep-deprived weekend
-
+air quality-aware route planning for commuters, built in one very sleep-deprived weekend<br><br>
 <code>AI/ML</code> <code>Maps API</code> <code>Full Stack</code>
 </td>
-<td width="12"></td>
-<td align="center" valign="top" width="280" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5;">
+<td width="16"></td>
+<td align="center" valign="top" width="300" style="border:2px solid #ffb7c5; border-radius:16px; padding:22px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m3.png" width="65px"/><br>
-<b>Guest House Management</b><br>
+<b style="font-size:18px;">Guest House Management</b><br>
 <i>full-stack web app</i><br><br>
-
-- booking system for a real guest house, actually in use
-- React + C# .NET + PostgreSQL under the hood
-
+booking system for a real guest house, actually in use — React + C# .NET + PostgreSQL under the hood<br><br>
 <code>React</code> <code>C#</code> <code>.NET</code> <code>PostgreSQL</code>
 </td>
 </tr>
