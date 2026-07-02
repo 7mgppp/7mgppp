@@ -179,11 +179,12 @@ booking system for a real guest house, actually in use — React + C# .NET + Pos
 </table>
 <br>
 <div align="center"><img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/banner_divider.svg" width="100%"/></div>
+
 <div align="center">
 <br>
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_~1342-ffb7c5?style=flat-square&logo=codeforces&logoColor=d63384)](https://codeforces.com/profile/7mGPPP)
-[![LeetCode](https://img.shields.io/badge/LeetCode-7mgppp1729-ffd6e0?style=flat-square&logo=leetcode&logoColor=d63384)](https://leetcode.com/u/7mgppp1729)
-[![NPTEL](https://img.shields.io/badge/NPTEL_Elite-IIT_Kharagpur-ffb7c5?style=flat-square&logoColor=d63384)](https://nptel.ac.in)
+<a href="https://codeforces.com/profile/7mGPPP"><img src="https://img.shields.io/badge/Codeforces-Pupil_~1342-ffb7c5?style=flat-square&logo=codeforces&logoColor=d63384"/></a>
+<a href="https://leetcode.com/u/7mgppp1729"><img src="https://img.shields.io/badge/LeetCode-7mgppp1729-ffd6e0?style=flat-square&logo=leetcode&logoColor=d63384"/></a>
+<a href="https://nptel.ac.in"><img src="https://img.shields.io/badge/NPTEL_Elite-IIT_Kharagpur-ffb7c5?style=flat-square&logoColor=d63384"/></a>
 <br><br>
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m6.png" width="90px"/>
 <br><br>
