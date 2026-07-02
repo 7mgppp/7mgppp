@@ -135,7 +135,7 @@ Get me a iBook G3
 
 <img src="https://github-readme-stats.vercel.app/api?username=7mgppp&show_icons=true&bg_color=fff0f5&title_color=d63384&text_color=9c4068&icon_color=ff85a1&border_color=ffb7c5&border_radius=15" height="155"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7mgppp&layout=compact&bg_color=fff0f5&title_color=d63384&text_color=9c4068&border_color=ffb7c5&border_radius=15&langs_count=6" height="155"/>
+username=7mgppp&layout=compact&bg_color=fff0f5&title_color=d63384&text_color=9c4068&border_color=ffb7c5&border_radius=15&langs_count=6" height="155"/>
 
 <br><br>
 
