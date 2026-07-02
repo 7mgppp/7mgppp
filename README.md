@@ -12,9 +12,9 @@
 
 <div align="center">
 
-`computer science student` &nbsp;·&nbsp; `ai/ml` &nbsp;·&nbsp; `backend engineer`
+`Computer Science Student` &nbsp;·&nbsp; `ai/ml` &nbsp;·&nbsp; `Backend Engineer`
 
-*still figuring out what I want to build, but having fun doing it* &nbsp;✿
+*Still figuring out what I want to build, but having fun doing it* &nbsp;✿
 
 <br>
 
@@ -34,10 +34,10 @@
 <td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m3.png" width="75px"/><br><br>
 <b style="font-size:17px;">about me</b><br><br>
-name: miilee sharma<br><br>
-pronouns: she/her<br><br>
-edu: b.tech cse (data science)<br><br>
-school: MUJ, jaipur
+Name: Miilee Sharma<br><br>
+Pronouns: she/her<br><br>
+Edu: B.Tech CSE (Data Science)<br><br>
+School: MUJ, jaipur
 </td>
 
 <td width="14"></td>
@@ -48,8 +48,8 @@ school: MUJ, jaipur
 ml/ai (the annoying parts)<br><br>
 backend stuff<br><br>
 OS internals<br><br>
-computer networks<br><br>
-competitive programming
+Computer Networks<br><br>
+Competitive Programming
 </td>
 
 <td width="14"></td>
@@ -58,9 +58,8 @@ competitive programming
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m5.png" width="75px"/><br><br>
 <b style="font-size:17px;">currently building</b><br><br>
 A NES Emulator<br><br>
-guest house booking system<br><br>
-a GAN that fakes orca calls<br><br>
-a transformer that writes music
+A GAN that fakes Orca calls<br><br>
+A transformer that writes classical music 
 </td>
 
 </tr>
@@ -71,10 +70,9 @@ a transformer that writes music
 
 <td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m6.png" width="75px"/><br><br>
-<b style="font-size:17px;">currently learning</b><br><br>
-distributed systems<br><br>
-system design<br><br>
-c++ (properly, this time)
+<b style="font-size:17px;">Currently Learning</b><br><br>
+Distributed Systems<br><br>
+System Design<br><br>
 </td>
 
 <td width="14"></td>
@@ -82,7 +80,7 @@ c++ (properly, this time)
 <td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m7.png" width="75px"/><br><br>
 <b style="font-size:17px;">looking for</b><br><br>
-sde / ml internships<br><br>
+SDE / ML Internships<br><br>
 people to build weird side projects with
 </td>
 
