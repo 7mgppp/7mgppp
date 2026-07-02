@@ -57,7 +57,7 @@ competitive programming
 <td align="center" valign="top" width="240" style="border:2px solid #ffb7c5; border-radius:16px; padding:20px; background:#fff0f5; font-size:15px;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m5.png" width="75px"/><br><br>
 <b style="font-size:17px;">currently building</b><br><br>
-an nes emulator<br><br>
+A NES Emulator<br><br>
 guest house booking system<br><br>
 a GAN that fakes orca calls<br><br>
 a transformer that writes music
