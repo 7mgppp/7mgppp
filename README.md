@@ -1,28 +1,10 @@
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td><img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m1.png" width="130px"/></td>
-<td><img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/banner.svg" width="580px"/></td>
-<td><img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m2.png" width="130px"/></td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-```
-(✿◠‿◠)♡  hi, i'm miilee
-```
-
 `computer science student` &nbsp;·&nbsp; `ai/ml` &nbsp;·&nbsp; `backend engineer`
 
-*currently building things that make me happy* &nbsp;✿
+*still figuring out what I want to build, but having fun doing it* &nbsp;✿
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=16&pause=1000&color=d63384&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%28Data+Science%29+%40+MUJ;ML+%2F+AI+%7C+Backend+%7C+Competitive+Programmer;Building+cool+stuff+one+bug+at+a+time+%E2%99%A1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=16&pause=1000&color=d63384&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%28Data+Science%29+%40+MUJ%2C+2027;probably+debugging+something+right+now;send+help+or+coffee+%E2%98%95)
 
 </div>
 
@@ -38,10 +20,12 @@
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m3.png" width="75px"/><br><br>
 <b>about me</b><br><br>
-name &nbsp; miilee sharma<br>
-pronouns &nbsp; she/her<br>
-edu &nbsp; b.tech cse<br>(data science)<br>
-school &nbsp; MUJ, jaipur
+
+- name: miilee sharma
+- pronouns: she/her
+- edu: b.tech cse (data science)
+- school: MUJ, jaipur
+
 </td>
 
 <td width="10"></td>
@@ -49,12 +33,13 @@ school &nbsp; MUJ, jaipur
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m4.png" width="75px"/><br><br>
 <b>interests</b><br><br>
-artificial intelligence<br>
-machine learning<br>
-backend engineering<br>
-operating systems<br>
-computer networks<br>
-competitive programming
+
+- ml/ai (mostly the annoying parts)
+- backend stuff
+- low-key into OS internals
+- poking at networks
+- cp when i'm procrastinating
+
 </td>
 
 <td width="10"></td>
@@ -62,10 +47,12 @@ competitive programming
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m5.png" width="75px"/><br><br>
 <b>currently building</b><br><br>
-nes emulator<br>
-guest house mgmt system<br>
-orca call synthesis<br>
-music generation
+
+- an nes emulator (in way over my head)
+- guest house booking system for a client
+- teaching a GAN to sound like an orca
+- a transformer that writes music
+
 </td>
 
 </tr>
@@ -77,9 +64,11 @@ music generation
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m6.png" width="75px"/><br><br>
 <b>currently learning</b><br><br>
-distributed systems<br>
-system design<br>
-advanced c++
+
+- distributed systems (slowly)
+- system design
+- c++ i actually understand
+
 </td>
 
 <td width="10"></td>
@@ -87,9 +76,10 @@ advanced c++
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m7.png" width="75px"/><br><br>
 <b>looking for</b><br><br>
-software engineering internships<br>
-machine learning internships<br>
-open source collaborations
+
+- sde / ml internships
+- people to build weird side projects with
+
 </td>
 
 <td width="10"></td>
@@ -97,9 +87,11 @@ open source collaborations
 <td align="center" valign="top" width="200" style="border:2px solid #ffb7c5; border-radius:16px; padding:16px; background:#fff0f5;">
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m8.png" width="75px"/><br><br>
 <b>fun facts</b><br><br>
-coffee lover ☕<br>
-night owl 🌙<br>
-always debugging something
+
+- coffee lover ☕
+- night owl 🌙
+- always debugging something
+
 </td>
 
 </tr>
@@ -165,7 +157,10 @@ always debugging something
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m2.png" width="65px"/><br>
 <b>OrcaCallGAN</b><br>
 <i>bioacoustic audio synthesis</i><br><br>
-GAN model that generates orca vocalizations from spectrograms<br><br>
+
+- taught a GAN to fake orca calls from spectrograms
+- results are honestly a little unsettling
+
 <code>PyTorch</code> <code>GANs</code> <code>Audio ML</code>
 </td>
 <td width="12"></td>
@@ -173,7 +168,10 @@ GAN model that generates orca vocalizations from spectrograms<br><br>
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m1.png" width="65px"/><br>
 <b>RoPE-MT</b><br>
 <i>music generation transformer</i><br><br>
-Autoregressive transformer with RoPE for symbolic music generation<br><br>
+
+- autoregressive transformer w/ RoPE
+- writes symbolic music, still learning taste
+
 <code>Transformers</code> <code>RoPE</code> <code>PyTorch</code>
 </td>
 </tr>
@@ -183,7 +181,10 @@ Autoregressive transformer with RoPE for symbolic music generation<br><br>
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m4.png" width="65px"/><br>
 <b>HawaGuide</b><br>
 <i>7th nationally @ Delhi DA Hackathon</i><br><br>
-Air quality-aware navigation for urban commuters<br><br>
+
+- air quality-aware route planning for commuters
+- built this in one very sleep-deprived weekend
+
 <code>AI/ML</code> <code>Maps API</code> <code>Full Stack</code>
 </td>
 <td width="12"></td>
@@ -191,7 +192,10 @@ Air quality-aware navigation for urban commuters<br><br>
 <img src="https://raw.githubusercontent.com/7mgppp/7mgppp/main/m3.png" width="65px"/><br>
 <b>Guest House Management</b><br>
 <i>full-stack web app</i><br><br>
-React + C# .NET + PostgreSQL institutional booking system<br><br>
+
+- booking system for a real guest house, actually in use
+- React + C# .NET + PostgreSQL under the hood
+
 <code>React</code> <code>C#</code> <code>.NET</code> <code>PostgreSQL</code>
 </td>
 </tr>
